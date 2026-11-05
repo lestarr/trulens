@@ -9,7 +9,7 @@ tensorflow-hub
 tensorflow-text
 tensorflow
 tf-models-official
-torch==1.13.1
+torch==2.13.0
 torchvision==0.14.1
 ipywidgets
 plotly
